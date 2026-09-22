@@ -67,37 +67,6 @@ ARIMA · Prophet · Time Series Analysis · Forecasting
 
 ⸻
 
-🚀 Featured Projects
-
-🦠 COVID-19 Analysis & Forecasting
-
-An end-to-end data science project analyzing global COVID-19 data and forecasting future trends using time-series techniques.
-
-Key areas:
-
-* Data cleaning & preprocessing
-* Exploratory Data Analysis
-* Country-level analysis
-* Data visualization
-* Time-series forecasting
-* Prophet forecasting
-
-Tech: Python Pandas NumPy Matplotlib Seaborn Prophet
-
-🔗 View Repository
-
-⸻
-
-🎬 Netflix Recommendation Engine
-
-A recommendation-system project focused on analyzing movie data and generating relevant movie recommendations.
-
-Tech: Python Pandas NumPy Machine Learning
-
-🔗 View Repository
-
-⸻
-
 📚 Currently Learning
 
 Machine Learning
@@ -121,23 +90,6 @@ Currently focusing on:
 * ⏱️ Time-series forecasting
 * 🧬 Deep Learning fundamentals
 * 🚀 End-to-end ML workflows
-
-⸻
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-⸻
-
-📈 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
 
 ⸻
 
